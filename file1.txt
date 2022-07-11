@@ -1,2 +1,6 @@
 file1 line1
+<<<<<<< HEAD
 file1 line2 in master
+=======
+file 1 line2 into feature-01
+>>>>>>> feature-01
