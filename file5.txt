@@ -1,2 +1,3 @@
  file5 line1 added
- file5 line2 added though future-01"
+ file5 line2 added in master
+
